@@ -10,7 +10,6 @@ import fs2.Stream
 import io.circe.jawn.CirceSupportParser
 import io.circe.{Decoder, Json}
 import org.http4s._
-import org.http4s.ember.client._
 import org.typelevel.jawn.Facade
 import org.typelevel.jawn.fs2._
 

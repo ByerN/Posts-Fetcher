@@ -8,7 +8,6 @@ import org.http4s.Response
 import org.http4s.client.Client
 import org.scalamock.scalatest.MockFactory
 import org.scalatest.funspec.AnyFunSpec
-import org.scalatest.Assertions._
 
 class PostsServiceSpec extends AnyFunSpec with MockFactory {
 
